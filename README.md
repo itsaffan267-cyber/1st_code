@@ -1,2 +1,3 @@
 # 1st_code
-by Affan
+Author-Affan
+Learning github at midnight. 
